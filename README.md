@@ -2,7 +2,11 @@
 Low-effort Chrome addon to unlock wo field in camis/usdapi window
 
 # Installation
-reference: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
+Download the files of this repository and save them in a directory on your computer. Select this directory in step 3 below.
+
+
+
+
 
 
 To load an unpacked extension in developer mode:
@@ -16,6 +20,8 @@ To load an unpacked extension in developer mode:
     
 
 Ta-da! The extension has been successfully installed. If no extension icons were included in the manifest, a generic icon will be created for the extension.
+reference: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
+
 
 Created by Sam
 
